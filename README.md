@@ -7,4 +7,4 @@ Heute mussten wir die nötigen Tools für das Modul einrichten. Dazu gehörte ei
 
 # Tag 2, 20.05.2025
 
-Nachdem der Lehrer eine Einführung gab, konnten wir uns den Aufgaben witmen.
+Nachdem der Lehrer eine Einführung gab, konnten wir uns den Aufgaben witmen. Jedoch hatte ich Probleme, dass ich mich bei der VM nicht anmelden konnte. Darum verbrachte ich den Grössten teil der Lektion mit dem lösen von diesem Problem.
