@@ -12,8 +12,7 @@ Nachdem der Lehrer eine Einführung gab, konnten wir uns den Aufgaben witmen. Je
 
 # Tag 3, 27.05.2025
 
-Heute haben wir uns wichtige Systemordner angeschaut und deren Inhalt analysiert. Zudem haben wir verschiedene Texteditoren wie nano und vi/vim ausprobiert. Auch haben wir erste Rechenoperationen direkt in der Bash getestet.
-
+Krank
 
 # Tag 4, 03.06.2025
 
