@@ -32,3 +32,6 @@ In dieser Lektion erstellten wir eine Gruppenarbeit und dokumentierten unsere Re
 # Tag 7, 24.06.2025
 
 Wir haben LB1 absolviert und im Anschluss mit der Projektarbeit gestartet.
+
+
+# Tag 8, 01.06.2025
