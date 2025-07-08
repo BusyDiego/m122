@@ -35,3 +35,5 @@ Wir haben LB1 absolviert und im Anschluss mit der Projektarbeit gestartet.
 
 
 # Tag 8, 01.06.2025
+
+Am heutigen Tag durften wir alle vier Lektionen für unser Projekt nutzen. Ich kam gut voran mit dem Projekt und konnte auch mit der Dokumentation beginnen.
