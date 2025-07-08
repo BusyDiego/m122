@@ -31,7 +31,7 @@ In dieser Lektion erstellten wir eine Gruppenarbeit und dokumentierten unsere Re
 
 # Tag 7, 24.06.2025
 
-Wir haben LB1 absolviert und im Anschluss mit der Projektarbeit gestartet.
+Wir haben LB1 absolviert und im Anschluss mit der Projektarbeit gestartet. Ich informierte micht zuerst und suchte ein paar Ideen und Möglichkeiten, die mir gefielen. Zum Schluss entschied ich mich, eine Anzeige für Marktkurse zu machen.
 
 
 # Tag 8, 01.06.2025
